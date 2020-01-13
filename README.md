@@ -9,7 +9,7 @@ https://github.com/ScarVite/Pilzmaster/releases
 
 **via Git**
 
-`$ git clone https://github.com/ScarVite/Pilzmaster.git`
+`$ git clone https://github.com/HypeSquad-Event-Manager/HSE-Manager-bot.git`
 
 **install the node modules**
 
