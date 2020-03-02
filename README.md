@@ -18,4 +18,4 @@ https://github.com/HypeSquad-Event-Manager/HSE-Manager-bot/releases
 
 **start the bot** 
 
-`$ npm run bot`
+`$ npm start`
