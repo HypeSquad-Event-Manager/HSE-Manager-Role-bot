@@ -16,5 +16,5 @@
     "start": "nodemon bot.js"
   },
   "author": "ScarVite#6606",
-  "license": "ISC"
+  "license": "MIT"
 }
