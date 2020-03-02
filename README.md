@@ -5,7 +5,7 @@ We recommend to download the zip because everything works in the official releas
 
 **via zip**
 
-https://github.com/ScarVite/Pilzmaster/releases
+https://github.com/HypeSquad-Event-Manager/HSE-Manager-bot/releases
 
 **via Git**
 
