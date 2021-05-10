@@ -1,3 +1,5 @@
+<h1> This is outdated and will need to be redone, once we launch </h1>
+
 <h2>Documentation</h2>
 <h3>How to install</h3>
 We recommend to download the zip because everything works in the official releases.
